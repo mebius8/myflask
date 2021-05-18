@@ -7,6 +7,6 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello():
-    return 'Welcome to My '
+    return 'Welcome to My happy'
 
 #加了两行
